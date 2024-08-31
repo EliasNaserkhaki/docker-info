@@ -189,5 +189,5 @@ func confirm() bool {
 }
 
 func footer() {
-	// Placeholder for any footer content
+	fmt.Println("App by Elias Naserkhaki. enjoy it ;) \n\n")
 }
