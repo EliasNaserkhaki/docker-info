@@ -17,6 +17,9 @@ sudo chmod +x docker-info
 ./docker-info
 ```
 
+<br />
+Enoj it, next time to run app just in docker-info/run  folder type  ./docker-info
+<br />
 Features:
 
 ```ol
