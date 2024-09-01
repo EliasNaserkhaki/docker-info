@@ -11,7 +11,7 @@ How to use:
 <br />
 
 ```shell
-git clone https://github.com/EliasNaserkhaki/docker-info
+sudo git clone https://github.com/EliasNaserkhaki/docker-info
 cd docker-info/run
 sudo chmod +x docker-info
 ./docker-info
