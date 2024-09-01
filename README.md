@@ -14,3 +14,19 @@ sudo chmod +x docker-info
 ./docker-info
 
 ```
+
+Features:
+1 - show server and host information
+2 - show server ip and route details
+3 - show server public IP
+4 - show firewall status
+5 - show CPU usage
+6 - show server storage info
+7 - show RAM info
+8 - show containers list
+9 - show containers log file size and total
+10 - show realtime container resource details
+---- if Swarm mode eanabled : 
+10 - show overall swarm  info
+11 - show Swarm cluster nodes details
+
