@@ -29,8 +29,9 @@ Features:
 7 - show RAM info
 8 - show containers list
 9 - show containers log file size and total
-10 - show realtime container resource details
+10- Remove all container logs at once
+11 - show realtime container resource details
 ---- if Swarm mode eanabled : 
-11 - show overall swarm  info
-12 - show Swarm cluster nodes details
+12 - show overall swarm  info
+13 - show Swarm cluster nodes details
 ```
