@@ -86,6 +86,7 @@ func showOverallReport() {
 	runCommand("free", "-h")
 	fmt.Println("\n>>> Log file size:")
 	showDockerLogSize()
+        showRealTimeStats()
 }
 
 func showLiveStats() {
@@ -100,7 +101,8 @@ func showRealTimeStats() {
 	for i := 1; i <= 3; i++ {
 		fmt.Printf("#%d Docker containers resource results:\n", i)
 		runCommand("sudo", "docker", "stats", "--no-stream")
-		time.Sleep(1 * time.Second)
+		fmt.Println()
+                time.Sleep(1 * time.Second)
 	}
 }
 
