@@ -9,7 +9,7 @@ How to use:
 ```shell
 
 git clone https://github.com/EliasNaserkhaki/docker-info
-cd docker-info/executable
+cd docker-info/run
 sudo chmod +x docker-info
 ./docker-info
 
