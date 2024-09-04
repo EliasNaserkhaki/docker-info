@@ -38,3 +38,13 @@ Features:
 12 - show overall swarm  info
 13 - show Swarm cluster nodes details
 ```
+
+<br /><br />
+Screenshots:
+
+![Screenshot 1](screenshots/1.jpg)<br /><br />
+![Screenshot 2](screenshots/2.jpg)<br /><br />
+![Screenshot 3](screenshots/3.jpg)<br /><br />
+![Screenshot 4](screenshots/4.jpg)<br /><br />
+![Screenshot 4 - Swarm](screenshots/4-swarm.jpg)<br /><br />
+
