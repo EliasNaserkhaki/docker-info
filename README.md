@@ -1,4 +1,5 @@
 # docker-info
+## View server and Docker status at a glance.
 View your docker info and server info (cli) , if you have swarm its possible to view swarm cluster info too.
 
 Tested on OS(s): Debian and Ubuntu server .
