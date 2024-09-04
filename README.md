@@ -8,7 +8,7 @@ How to use:
 
 1- open your desired folder in your server to dowload files.
 <br />
-2- run below commands in your terminal:
+2- run following commands in your terminal:
 <br />
 
 ```shell
